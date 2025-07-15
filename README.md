@@ -51,4 +51,5 @@ Found a bug? Got suggestions?
 📌 Open an issue or submit a pull request — let’s make this game even better!
 
 📸 Screenshot
-(Add a screenshot of your game board here – preview.png)
+<img width="1913" height="966" alt="Screenshot 2025-07-09 095241" src="https://github.com/user-attachments/assets/4382e44b-6abb-4003-b40f-21d7cda594a9" />
+
